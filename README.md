@@ -13,8 +13,6 @@
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -41,9 +39,8 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 Check out my personal portfolio!
@@ -53,13 +50,12 @@ Check out my personal portfolio!
 
 ### Built With
 
-* [Python](https://python.org/)
+- [Python](https://python.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To get a local copy up and running follow these steps.
@@ -68,15 +64,15 @@ To get a local copy up and running follow these steps.
 
 Set up a virtual environment
 
-* Start a virtual environment in Terminal
+- Start a virtual environment in Terminal
   ```sh
   virtualenv venv
   ```
-* Activate virtual environment
+- Activate virtual environment
   ```sh
   source venv/bin/activate
   ```
-* Install packages in requirements.txt
+- Install packages in requirements.txt
   ```sh
   pip install -r requirements.txt
   ```
@@ -94,8 +90,9 @@ Set up a virtual environment
    api_key = (YOUR API KEY)
    api_secret = (YOUR API SECRET)
    ```
-   in a file called _keys.ipynb_
-   
+
+   in a file called _alpaca_keys.py_
+
 4. Run bot
    ```
    python bot.py
@@ -103,34 +100,32 @@ Set up a virtual environment
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 TBA
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [x] Create README
 - [x] Connect to API
-- [ ] 
+- [ ]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
+
 ## License
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Your Name - [@saurabhkarya](https://twitter.com/saurabhkarya) - ska.arya173@gmail.com
@@ -139,15 +134,12 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
 Resources used below:
 
-* [Choose an Open Source License](https://choosealicense.com)
-
+- [Choose an Open Source License](https://choosealicense.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
