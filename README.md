@@ -114,7 +114,9 @@ TBA
 
 - [x] Create README
 - [x] Connect to API
-- [ ]
+- [x] Create an order to issue through API
+- [X] Create the strategy and execute the order
+- [ ] Create a database to store all the price values and make strategies based on the database - maybe with SQL?
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
